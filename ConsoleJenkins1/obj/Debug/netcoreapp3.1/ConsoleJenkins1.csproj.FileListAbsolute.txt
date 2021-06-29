@@ -1,0 +1,13 @@
+C:\Users\syejaved\source\repos\ConsoleJenkins1\ConsoleJenkins1\bin\Debug\netcoreapp3.1\ConsoleJenkins1.exe
+C:\Users\syejaved\source\repos\ConsoleJenkins1\ConsoleJenkins1\bin\Debug\netcoreapp3.1\ConsoleJenkins1.deps.json
+C:\Users\syejaved\source\repos\ConsoleJenkins1\ConsoleJenkins1\bin\Debug\netcoreapp3.1\ConsoleJenkins1.runtimeconfig.json
+C:\Users\syejaved\source\repos\ConsoleJenkins1\ConsoleJenkins1\bin\Debug\netcoreapp3.1\ConsoleJenkins1.runtimeconfig.dev.json
+C:\Users\syejaved\source\repos\ConsoleJenkins1\ConsoleJenkins1\bin\Debug\netcoreapp3.1\ConsoleJenkins1.dll
+C:\Users\syejaved\source\repos\ConsoleJenkins1\ConsoleJenkins1\bin\Debug\netcoreapp3.1\ConsoleJenkins1.pdb
+C:\Users\syejaved\source\repos\ConsoleJenkins1\ConsoleJenkins1\obj\Debug\netcoreapp3.1\ConsoleJenkins1.csprojAssemblyReference.cache
+C:\Users\syejaved\source\repos\ConsoleJenkins1\ConsoleJenkins1\obj\Debug\netcoreapp3.1\ConsoleJenkins1.AssemblyInfoInputs.cache
+C:\Users\syejaved\source\repos\ConsoleJenkins1\ConsoleJenkins1\obj\Debug\netcoreapp3.1\ConsoleJenkins1.AssemblyInfo.cs
+C:\Users\syejaved\source\repos\ConsoleJenkins1\ConsoleJenkins1\obj\Debug\netcoreapp3.1\ConsoleJenkins1.csproj.CoreCompileInputs.cache
+C:\Users\syejaved\source\repos\ConsoleJenkins1\ConsoleJenkins1\obj\Debug\netcoreapp3.1\ConsoleJenkins1.dll
+C:\Users\syejaved\source\repos\ConsoleJenkins1\ConsoleJenkins1\obj\Debug\netcoreapp3.1\ConsoleJenkins1.pdb
+C:\Users\syejaved\source\repos\ConsoleJenkins1\ConsoleJenkins1\obj\Debug\netcoreapp3.1\ConsoleJenkins1.genruntimeconfig.cache
